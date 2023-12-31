@@ -1,0 +1,31 @@
+package Question01;
+
+public abstract class Pet implements PointAllocator {
+	
+	
+	private double point;
+
+	@Override
+	public void setter(double points) {
+		
+		this.point = points;
+		
+	}
+	
+	@Override
+	public double getters() {
+		
+		return this.point;
+		
+	}
+	
+	public abstract void feed();
+	
+	public abstract void clean();
+	
+	public abstract void cuddle();
+	
+	public abstract void GetTotalPoints();
+	
+
+}
