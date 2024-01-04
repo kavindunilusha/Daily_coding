@@ -4,7 +4,7 @@ public class FrontAirbag implements CarAirbag {
 
 	@Override
 	public void airBagMotionDetection() {
-		System.out.println("Motion detection on for Front Air bag ");
+		System.out.println("Motion detection on  ");
 
 	}
 
