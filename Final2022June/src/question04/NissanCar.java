@@ -21,7 +21,7 @@ public class NissanCar implements Car {
 
 	@Override
 	public void assembleMotionSensor() {
-		System.out.println("Assembling for Nissan");
+		System.out.println("Assembling  Nissan");
 		airBag.airBagMotionDetection();
 		
 
