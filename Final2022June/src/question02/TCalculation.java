@@ -1,7 +1,7 @@
 package question02;
 
 import java.util.ArrayList;
-
+//comment
 public class TCalculation<T extends Number> {
 	private ArrayList<T> numList;
 
