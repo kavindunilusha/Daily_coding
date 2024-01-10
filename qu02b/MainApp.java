@@ -14,7 +14,7 @@ public class MainApp {
 		System.out.println();
 		
 		System.out.println("Printing Second Pair");
-		System.out.println("First value:" +pair2.getFirst());
+		System.out.println("First value" +pair2.getFirst());
 		System.out.println("Second value:" + pair2.getSecond());
 		
 		
