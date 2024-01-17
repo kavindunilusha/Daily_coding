@@ -7,7 +7,7 @@ public class Library {
 	public static void main(String[] args) {
 		HashMap<Integer,Book> bookList = new HashMap<>();
 		
-		Book book1 = new Book("Harry Potter","ISBN12345");
+		Book book1 = new Book("Harr Potter","ISBN12345");
 		bookList.put(1, book1);
 		
 		Book book2 = new Book("Rings of powers",123456);
