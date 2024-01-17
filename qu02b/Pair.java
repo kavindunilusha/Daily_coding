@@ -13,7 +13,7 @@ public class Pair<T,U> {
 	}
 	
 	
-	//method of get first value of pair
+	//method of get first value 
 
 
 	public T getFirst() {
