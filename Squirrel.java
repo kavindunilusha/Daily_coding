@@ -47,7 +47,7 @@ public class Squirrel extends Pet {
 				
 			}
 			else
-				System.out.println("Not caught");
+				System.out.println("No caught");
 		} catch (CaughtException e) {
 			System.out.println(e);
 			return true;
