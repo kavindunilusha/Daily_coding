@@ -47,7 +47,7 @@ private String command;
 				throw new CaughtException("caught");
 			}
 			else
-				System.out.println("Not caught");
+				System.out.println("No caught");
 			
 		} catch (CaughtException e) {
 
