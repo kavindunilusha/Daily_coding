@@ -10,7 +10,7 @@ public class Cat extends Pet {
 	}
 	
 	public void feed() {
-		System.out.println("feeding the Cat");
+		System.out.println("feeding the Ca");
 		setter(getters()+5);
 	}
 
