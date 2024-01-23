@@ -8,7 +8,7 @@ public class EvenOddPrinter {
 
 	public static void main(String[] args) {
 		
-		Thread evenThread = new Thread(new EvenRunnable() , "EvenT") ;
+		Thread evenThread = new Thread(new EvenRunnable() , "Even") ;
 		Thread oddThread = new Thread(new OddRunnable() , "OddThread") ;
 		
 		evenThread.start();
