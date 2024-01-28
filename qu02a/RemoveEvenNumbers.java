@@ -34,7 +34,7 @@ public class RemoveEvenNumbers {
         }
 
         // Display odd numbers
-        System.out.println("Od numbers in the Array:");
+        System.out.println("Od numbers in the Arra:");
         for (int num : numbers) {
             System.out.println(num);
         }
