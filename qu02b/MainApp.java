@@ -8,7 +8,7 @@ public class MainApp {
 		
 		
 		System.out.println("Printing First Pair");
-		System.out.println("First value:" +pair1.getFirst());
+		System.out.println("First valu:" +pair1.getFirst());
 		System.out.println("Second valu:" + pair1.getSecond());
 		
 		System.out.println();
