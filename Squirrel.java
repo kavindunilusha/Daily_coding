@@ -28,7 +28,7 @@ public class Squirrel extends Pet {
 
 	public void clean() {
 
-		System.out.println("cleanig the Squirrel");
+		System.out.println("cleanig the Squirre");
 		setter(getters() + 10);
 	}
 
