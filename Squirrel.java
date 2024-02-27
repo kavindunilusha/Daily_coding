@@ -18,7 +18,7 @@ public class Squirrel extends Pet {
 			setter(0);
 		}
 		else
-			System.out.println("Total point  " + getters());
+			System.out.println("Total poit  " + getters());
 	}
 
 	public void feed() {
