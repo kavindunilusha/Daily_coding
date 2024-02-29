@@ -18,7 +18,7 @@ public class Pattern02 extends Thread{
 			
 			for (int i = 0; i < count; i++) {
 				
-				System.out.print("Pattern 02 Thread =");
+				System.out.print("Pattern 2 Thread =");
 				
 				for (int j = 0; j < count - i; j++) {
 					System.out.print(" ");
