@@ -9,7 +9,7 @@ public class SideAirbag implements CarAirbag {
 
 	@Override
 	public void airBagLightIndecator() {
-		System.out.println("Light indicator for  air bag");
+		System.out.println("Light indicator for  air ba");
 		
 
 	}
