@@ -18,7 +18,7 @@ private String command;
 			setter(0);
 		}
 		else
-			System.out.println("Total point is " + getters());
+			System.out.println("Total point  " + getters());
 	}
 
 	public void feed() {
